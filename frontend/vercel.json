@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://irrigation-gis-api.onrender.com/api/:path*" },
+    { "source": "/records/:path*", "destination": "https://irrigation-gis-api.onrender.com/records/:path*" }
+  ]
+}
