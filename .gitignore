@@ -19,8 +19,6 @@ Thumbs.db
 .env.*
 !.env.example
 
-data/raw/712/**/*.pdf
-!data/raw/712/**/.keep
 *.dwg
 *.rar
 *.zip
